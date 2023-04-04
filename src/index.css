@@ -1,0 +1,28 @@
+
+/*@import url('https://fonts.cdnfonts.com/css/pokemon-solid');*/
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  /*font-family: 'Pokemon Solid', sans-serif;*/
+  background-color: #f2f2f2;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
